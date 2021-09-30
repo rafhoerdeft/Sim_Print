@@ -2,6 +2,8 @@
 Aplikasi untuk menghitung biaya print foto/gambar dengan cara extract warna foto untuk melihat penggunaan warna tinta yang terpakai
 <br />
 Create using CodeIgniter 3
+<br />
+For database contact me: rafhoerdeft@gmail.com
 
 ![login](https://user-images.githubusercontent.com/44487637/135539079-8b55778f-259e-4bc2-8fd6-676e30c28460.JPG)
 ![Dashboard](https://user-images.githubusercontent.com/44487637/135539068-5ce3293b-b052-44d3-aecf-7c005f73d311.JPG)
